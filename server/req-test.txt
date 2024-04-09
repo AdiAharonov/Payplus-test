@@ -1,0 +1,2 @@
+GET http://localhost:3005/mining-pools/invalidcoin
+Authorization: Bearer f2b0156f-cf95-4e29-9f57-51296a481c6a
